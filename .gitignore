@@ -1,0 +1,32 @@
+# [RET-PIPE-007]
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated files
+data/processed/*.csv
+
+# Power BI temp files
+*.tmp
+*.bak
+
+# Logs
+*.log

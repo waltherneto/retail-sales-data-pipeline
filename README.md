@@ -269,28 +269,12 @@ analysis/powerbi/dashboard_notes.md
 ### Dashboard overview
 Add your main screenshot here after saving it to:
 
-```text
-analysis/powerbi/screenshots/retail-sales-dashboard-overview.jpg
-```
-
-Example markdown:
-
-```md
 ![Retail Sales Dashboard Overview](analysis/powerbi/screenshots/retail-sales-dashboard-overview.jpg)
-```
 
 ### Optional filtered view
 You can also include an additional filtered screenshot, for example:
 
-```text
-analysis/powerbi/screenshots/retail-sales-dashboard-filtered-central.jpg
-```
-
-Example markdown:
-
-```md
 ![Retail Sales Dashboard Filtered View](analysis/powerbi/screenshots/retail-sales-dashboard-filtered-central.jpg)
-```
 
 ---
 
